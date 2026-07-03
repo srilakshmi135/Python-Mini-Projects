@@ -1,18 +1,19 @@
 # 🐍 Python Mini Projects
 
-Welcome to my Python Mini Projects repository!
+Welcome to my **Python Mini Projects** repository!
 
-This repository contains beginner-friendly Python projects that I am building as part of my **10-Day Python Challenge**. Each project helps me improve my programming logic, problem-solving skills, and Git/GitHub workflow.
+This repository contains beginner-friendly Python projects that I am building daily as part of my **10-Day Python Challenge**. The goal is to improve my Python programming skills, logical thinking, problem-solving abilities, and Git/GitHub workflow.
 
 ---
 
 ## 📖 About
 
 This repository is created to:
-- Practice Python programming daily.
-- Improve logical thinking and coding skills.
+
+- Practice Python programming every day.
+- Improve problem-solving and logical thinking.
 - Learn Git and GitHub.
-- Build a strong programming portfolio.
+- Build a professional GitHub portfolio.
 
 ---
 
@@ -22,7 +23,7 @@ This repository is created to:
 |-----|---------|--------|
 | ✅ Day 1 | Age Calculator | Completed |
 | ✅ Day 2 | Student Result Calculator | Completed |
-| ⏳ Day 3 | Rock Paper Scissors Game | Coming Soon |
+| ✅ Day 3 | Rock Paper Scissors Game | Completed |
 | ⏳ Day 4 | Number Guessing Game | Coming Soon |
 | ⏳ Day 5 | ATM Simulator | Coming Soon |
 | ⏳ Day 6 | Password Generator | Coming Soon |
@@ -33,7 +34,27 @@ This repository is created to:
 
 ---
 
-## 🛠 Technologies Used
+## 📌 Project Descriptions
+
+### ✅ Day 1 - Age Calculator
+- Accepts the user's birth year.
+- Calculates and displays the current age.
+
+### ✅ Day 2 - Student Result Calculator
+- Accepts marks for 5 subjects.
+- Calculates total marks.
+- Calculates percentage.
+- Displays the student's grade.
+
+### ✅ Day 3 - Rock Paper Scissors Game
+- User plays against the computer.
+- Uses Python's `random` module.
+- Determines the winner based on game rules.
+- Handles invalid user input.
+
+---
+
+## 🛠️ Technologies Used
 
 - Python 3
 - Visual Studio Code
@@ -53,6 +74,7 @@ Python-Mini-Projects/
 ├── 02_Student_Result_Calculator/
 │   └── student_result_calculator.py
 ├── 03_Rock_Paper_Scissors/
+│   └── rock_paper_scissors.py
 ├── 04_Number_Guessing_Game/
 ├── 05_ATM_Simulator/
 ├── 06_Password_Generator/
@@ -66,20 +88,26 @@ Python-Mini-Projects/
 
 ## 🎯 Learning Goals
 
-- ✔ Practice Python every day
+- ✔ Learn Python fundamentals
+- ✔ Practice coding consistently
 - ✔ Improve problem-solving skills
-- ✔ Learn programming fundamentals
 - ✔ Build real mini projects
-- ✔ Become confident with Git and GitHub
-- ✔ Create a professional GitHub portfolio
+- ✔ Learn Git and GitHub
+- ✔ Build a professional GitHub portfolio
 
 ---
 
 ## 📈 Progress
 
-- Completed: **2 / 10** Projects
-- Remaining: **8 / 10** Projects
+- ✅ Completed Projects: **3 / 10**
+- ⏳ Remaining Projects: **7 / 10**
 
 ---
 
-### ⭐ If you like this repository, feel free to explore the projects and follow my learning journey!
+## 🤝 Connect
+
+Feel free to explore the projects and follow my learning journey.
+
+If you find this repository useful, consider giving it a ⭐.
+
+Happy Coding! 🚀
