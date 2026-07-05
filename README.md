@@ -1,30 +1,29 @@
 # 🐍 Python Mini Projects
 
-Welcome to my **Python Mini Projects** repository!
+Welcome to my **Python Mini Projects** repository! 🚀
 
-This repository contains beginner-friendly Python projects that I am building daily as part of my **10-Day Python Challenge**. The goal is to improve my Python programming skills, logical thinking, problem-solving abilities, and Git/GitHub workflow.
+This repository contains beginner-friendly Python projects that I am building daily to improve my programming, logical thinking, and problem-solving skills.
 
 ---
 
-## 📖 About
+## 📌 About
 
-This repository is created to:
-
-- Practice Python programming every day.
-- Improve problem-solving and logical thinking.
-- Learn Git and GitHub.
-- Build a professional GitHub portfolio.
+- 👩‍💻 Language: Python
+- 🎯 Goal: Learn Python through hands-on mini projects
+- 📅 Challenge: Build 10 Python Mini Projects
+- 🌱 Learning by coding every day
+- 📂 Beginner-friendly projects
 
 ---
 
 ## 🚀 Projects
 
 | Day | Project | Status |
-|-----|---------|--------|
+|------|-----------------------------|-----------|
 | ✅ Day 1 | Age Calculator | Completed |
 | ✅ Day 2 | Student Result Calculator | Completed |
 | ✅ Day 3 | Rock Paper Scissors Game | Completed |
-| ⏳ Day 4 | Number Guessing Game | Coming Soon |
+| ✅ Day 4 | Number Guessing Game | Completed |
 | ⏳ Day 5 | ATM Simulator | Coming Soon |
 | ⏳ Day 6 | Password Generator | Coming Soon |
 | ⏳ Day 7 | QR Code Generator | Coming Soon |
@@ -34,80 +33,138 @@ This repository is created to:
 
 ---
 
-## 📌 Project Descriptions
+# 📂 Repository Structure
 
-### ✅ Day 1 - Age Calculator
-- Accepts the user's birth year.
-- Calculates and displays the current age.
-
-### ✅ Day 2 - Student Result Calculator
-- Accepts marks for 5 subjects.
-- Calculates total marks.
-- Calculates percentage.
-- Displays the student's grade.
-
-### ✅ Day 3 - Rock Paper Scissors Game
-- User plays against the computer.
-- Uses Python's `random` module.
-- Determines the winner based on game rules.
-- Handles invalid user input.
-
----
-
-## 🛠️ Technologies Used
-
-- Python 3
-- Visual Studio Code
-- Git
-- GitHub
-
----
-
-## 📂 Repository Structure
-
-```text
+```
 Python-Mini-Projects/
 │
 ├── README.md
+│
 ├── 01_Age_Calculator/
 │   └── age_calculator.py
+│
 ├── 02_Student_Result_Calculator/
 │   └── student_result_calculator.py
+│
 ├── 03_Rock_Paper_Scissors/
 │   └── rock_paper_scissors.py
+│
 ├── 04_Number_Guessing_Game/
+│   └── number_guessing_game.py
+│
 ├── 05_ATM_Simulator/
+│
 ├── 06_Password_Generator/
+│
 ├── 07_QR_Code_Generator/
+│
 ├── 08_Face_Detection/
+│
 ├── 09_Barcode_Generator/
+│
 └── 10_Jarvis_Assistant/
 ```
 
 ---
 
-## 🎯 Learning Goals
+# ✅ Day 1 - Age Calculator
 
-- ✔ Learn Python fundamentals
-- ✔ Practice coding consistently
-- ✔ Improve problem-solving skills
-- ✔ Build real mini projects
-- ✔ Learn Git and GitHub
-- ✔ Build a professional GitHub portfolio
+### Features
+
+- Calculate age using birth year.
+- Simple user input.
+- Uses arithmetic operators.
+- Beginner-friendly.
+
+---
+
+# ✅ Day 2 - Student Result Calculator
+
+### Features
+
+- Accepts marks for five subjects.
+- Calculates total marks.
+- Calculates average.
+- Calculates percentage.
+- Displays student grade.
+- Uses conditional statements.
+
+---
+
+# ✅ Day 3 - Rock Paper Scissors Game
+
+### Features
+
+- User vs Computer game.
+- Uses Python's random module.
+- Determines winner.
+- Handles invalid input.
+- Simple game logic.
+
+---
+
+# ✅ Day 4 - Number Guessing Game
+
+### Features
+
+- Generates a random number between 1 and 100.
+- User guesses the number.
+- Gives hints (Too High / Too Low).
+- Validates user input.
+- Counts the number of valid attempts.
+- Handles invalid input using try-except.
 
 ---
 
 ## 📈 Progress
 
-- ✅ Completed Projects: **3 / 10**
-- ⏳ Remaining Projects: **7 / 10**
+- ✅ Completed Projects: **4 / 10**
+- ⏳ Remaining Projects: **6 / 10**
+
+Progress: **40% Completed**
 
 ---
 
-## 🤝 Connect
+## 💻 Python Concepts Covered
 
-Feel free to explore the projects and follow my learning journey.
+- Variables
+- Data Types
+- Input & Output
+- Arithmetic Operators
+- Conditional Statements
+- Loops
+- Functions
+- Exception Handling
+- Random Module
+- Lists
+- Menu-driven Programs
+- Problem Solving
 
-If you find this repository useful, consider giving it a ⭐.
+---
 
-Happy Coding! 🚀
+## 🎯 Goals
+
+- Learn Python step by step.
+- Improve logical thinking.
+- Practice coding every day.
+- Build consistency.
+- Create a strong GitHub portfolio.
+
+---
+
+## ⭐ Future Projects
+
+- ATM Simulator
+- Password Generator
+- QR Code Generator
+- Face Detection
+- Barcode Generator
+- Jarvis Assistant
+
+---
+
+## 🙌 Thank You
+
+Thank you for visiting my repository!
+
+If you like this project, don't forget to ⭐ the repository.
