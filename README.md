@@ -2,7 +2,7 @@
 
 Welcome to my **Python Mini Projects** repository! 🚀
 
-This repository contains beginner-friendly Python projects that I am building daily to improve my programming, logical thinking, and problem-solving skills.
+This repository contains beginner-friendly Python projects that I am building daily to improve my programming skills, logical thinking, and problem-solving abilities.
 
 ---
 
@@ -16,7 +16,7 @@ This repository contains beginner-friendly Python projects that I am building da
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
 | Day | Project | Status |
 |------|-----------------------------|-----------|
@@ -24,7 +24,7 @@ This repository contains beginner-friendly Python projects that I am building da
 | ✅ Day 2 | Student Result Calculator | Completed |
 | ✅ Day 3 | Rock Paper Scissors Game | Completed |
 | ✅ Day 4 | Number Guessing Game | Completed |
-| ⏳ Day 5 | ATM Simulator | Coming Soon |
+| ✅ Day 5 | ATM Simulator | Completed |
 | ⏳ Day 6 | Password Generator | Coming Soon |
 | ⏳ Day 7 | QR Code Generator | Coming Soon |
 | ⏳ Day 8 | Face Detection | Coming Soon |
@@ -53,6 +53,7 @@ Python-Mini-Projects/
 │   └── number_guessing_game.py
 │
 ├── 05_ATM_Simulator/
+│   └── atm_simulator.py
 │
 ├── 06_Password_Generator/
 │
@@ -72,9 +73,9 @@ Python-Mini-Projects/
 ### Features
 
 - Calculate age using birth year.
-- Simple user input.
-- Uses arithmetic operators.
-- Beginner-friendly.
+- Takes user input.
+- Performs arithmetic calculations.
+- Simple and beginner-friendly.
 
 ---
 
@@ -97,9 +98,9 @@ Python-Mini-Projects/
 
 - User vs Computer game.
 - Uses Python's random module.
-- Determines winner.
+- Determines the winner.
 - Handles invalid input.
-- Simple game logic.
+- Beginner-friendly game logic.
 
 ---
 
@@ -109,23 +110,38 @@ Python-Mini-Projects/
 
 - Generates a random number between 1 and 100.
 - User guesses the number.
-- Gives hints (Too High / Too Low).
+- Displays "Too High" or "Too Low" hints.
 - Validates user input.
-- Counts the number of valid attempts.
-- Handles invalid input using try-except.
+- Counts valid attempts.
+- Uses exception handling (`try-except`).
 
 ---
 
-## 📈 Progress
+# ✅ Day 5 - ATM Simulator
 
-- ✅ Completed Projects: **4 / 10**
-- ⏳ Remaining Projects: **6 / 10**
+### Features
 
-Progress: **40% Completed**
+- Menu-driven ATM system.
+- Check account balance.
+- Deposit money.
+- Withdraw money.
+- Prevents withdrawal when balance is insufficient.
+- Validates menu choices.
+- Uses loops and conditional statements.
+- Handles invalid input using exception handling.
 
 ---
 
-## 💻 Python Concepts Covered
+# 📈 Progress
+
+- ✅ Completed Projects: **5 / 10**
+- ⏳ Remaining Projects: **5 / 10**
+
+**Progress: 50% Completed 🎉**
+
+---
+
+# 💻 Python Concepts Covered
 
 - Variables
 - Data Types
@@ -133,38 +149,40 @@ Progress: **40% Completed**
 - Arithmetic Operators
 - Conditional Statements
 - Loops
-- Functions
 - Exception Handling
 - Random Module
 - Lists
 - Menu-driven Programs
 - Problem Solving
+- User Interaction
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
 - Learn Python step by step.
-- Improve logical thinking.
+- Build logical thinking.
 - Practice coding every day.
-- Build consistency.
+- Improve problem-solving skills.
 - Create a strong GitHub portfolio.
+- Stay consistent throughout the challenge.
 
 ---
 
-## ⭐ Future Projects
+# 🚀 Upcoming Projects
 
-- ATM Simulator
-- Password Generator
-- QR Code Generator
-- Face Detection
-- Barcode Generator
-- Jarvis Assistant
+- 🔒 Password Generator
+- 📱 QR Code Generator
+- 😀 Face Detection
+- 📦 Barcode Generator
+- 🤖 Jarvis Assistant
 
 ---
 
-## 🙌 Thank You
+# 🙌 Thank You
 
 Thank you for visiting my repository!
 
-If you like this project, don't forget to ⭐ the repository.
+I'm continuously improving my Python skills by building one project every day.
+
+If you found this repository helpful, feel free to ⭐ star it.
