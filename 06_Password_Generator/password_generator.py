@@ -1,23 +1,36 @@
 import random
 import string
 
-print("===== Password Generator =====")
+print("===== Strong Password Generator =====")
 
 try:
-    length = int(input("Enter password length: "))
+    length = int(input("Enter password length (minimum 4): "))
 
-    if length <= 0:
-        print("Password length must be greater than 0.")
+    if length < 4:
+        print("Password length must be at least 4.")
+
     else:
+        password = [
+            random.choice(string.ascii_uppercase),
+            random.choice(string.ascii_lowercase),
+            random.choice(string.digits),
+            random.choice(string.punctuation)
+        ]
+
         characters = string.ascii_letters + string.digits + string.punctuation
 
-        password = ""
+        for i in range(length - 4):
+            password.append(random.choice(characters))
 
-        for i in range(length):
-            password += random.choice(characters)
+        random.shuffle(password)
 
-        print("\nGenerated Password:")
-        print(password)
+        final_password = ""
+
+        for ch in password:
+            final_password += ch
+
+        print("\nGenerated Strong Password:")
+        print(final_password)
 
 except ValueError:
     print("Please enter a valid number.")
