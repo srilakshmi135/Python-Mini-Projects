@@ -16,7 +16,7 @@ This repository contains beginner-friendly Python projects that I am building da
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
 | Day | Project | Status |
 |------|-----------------------------|-----------|
@@ -25,17 +25,17 @@ This repository contains beginner-friendly Python projects that I am building da
 | ✅ Day 3 | Rock Paper Scissors Game | Completed |
 | ✅ Day 4 | Number Guessing Game | Completed |
 | ✅ Day 5 | ATM Simulator | Completed |
-| ⏳ Day 6 | Password Generator | Coming Soon |
-| ⏳ Day 7 | QR Code Generator | Coming Soon |
+| ✅ Day 6 | Password Generator | Completed |
+| ✅ Day 7 | QR Code Generator | Completed |
 | ⏳ Day 8 | Face Detection | Coming Soon |
 | ⏳ Day 9 | Barcode Generator | Coming Soon |
 | ⏳ Day 10 | Jarvis Assistant | Coming Soon |
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
-```
+```text
 Python-Mini-Projects/
 │
 ├── README.md
@@ -56,8 +56,11 @@ Python-Mini-Projects/
 │   └── atm_simulator.py
 │
 ├── 06_Password_Generator/
+│   └── password_generator.py
 │
 ├── 07_QR_Code_Generator/
+│   ├── qr_code_generator.py
+│   └── my_qrcode.png
 │
 ├── 08_Face_Detection/
 │
@@ -68,18 +71,18 @@ Python-Mini-Projects/
 
 ---
 
-# ✅ Day 1 - Age Calculator
+## ✅ Day 1 – Age Calculator
 
 ### Features
 
 - Calculate age using birth year.
 - Takes user input.
 - Performs arithmetic calculations.
-- Simple and beginner-friendly.
+- Beginner-friendly.
 
 ---
 
-# ✅ Day 2 - Student Result Calculator
+## ✅ Day 2 – Student Result Calculator
 
 ### Features
 
@@ -92,32 +95,30 @@ Python-Mini-Projects/
 
 ---
 
-# ✅ Day 3 - Rock Paper Scissors Game
+## ✅ Day 3 – Rock Paper Scissors Game
 
 ### Features
 
 - User vs Computer game.
-- Uses Python's random module.
+- Uses Python's `random` module.
 - Determines the winner.
 - Handles invalid input.
-- Beginner-friendly game logic.
 
 ---
 
-# ✅ Day 4 - Number Guessing Game
+## ✅ Day 4 – Number Guessing Game
 
 ### Features
 
 - Generates a random number between 1 and 100.
 - User guesses the number.
-- Displays "Too High" or "Too Low" hints.
-- Validates user input.
+- Gives hints (Too High / Too Low).
 - Counts valid attempts.
-- Uses exception handling (`try-except`).
+- Handles invalid input using `try-except`.
 
 ---
 
-# ✅ Day 5 - ATM Simulator
+## ✅ Day 5 – ATM Simulator
 
 ### Features
 
@@ -126,22 +127,49 @@ Python-Mini-Projects/
 - Deposit money.
 - Withdraw money.
 - Prevents withdrawal when balance is insufficient.
-- Validates menu choices.
 - Uses loops and conditional statements.
-- Handles invalid input using exception handling.
+- Handles invalid input using `try-except`.
 
 ---
 
-# 📈 Progress
+## ✅ Day 6 – Password Generator
 
-- ✅ Completed Projects: **5 / 10**
-- ⏳ Remaining Projects: **5 / 10**
+### Features
 
-**Progress: 50% Completed 🎉**
+- Generates a random strong password.
+- User chooses the password length.
+- Includes uppercase letters.
+- Includes lowercase letters.
+- Includes digits.
+- Includes special characters.
+- Ensures at least one uppercase letter, one lowercase letter, one digit, and one special character.
+- Shuffles characters for better randomness.
+- Handles invalid input using `try-except`.
 
 ---
 
-# 💻 Python Concepts Covered
+## ✅ Day 7 – QR Code Generator
+
+### Features
+
+- Generates QR codes from text or URLs.
+- Saves the QR code as an image (`my_qrcode.png`).
+- Supports website links and plain text.
+- Validates empty input.
+- Simple and beginner-friendly.
+
+---
+
+## 📈 Progress
+
+- ✅ Completed Projects: **7 / 10**
+- ⏳ Remaining Projects: **3 / 10**
+
+**Progress: 70% Completed 🎉**
+
+---
+
+## 💻 Python Concepts Covered
 
 - Variables
 - Data Types
@@ -151,35 +179,34 @@ Python-Mini-Projects/
 - Loops
 - Exception Handling
 - Random Module
+- String Module
+- External Libraries
+- File Handling
+- Image Generation
 - Lists
-- Menu-driven Programs
 - Problem Solving
-- User Interaction
 
 ---
 
-# 🎯 Goals
+## 🎯 Goals
 
 - Learn Python step by step.
-- Build logical thinking.
+- Improve logical thinking.
 - Practice coding every day.
-- Improve problem-solving skills.
+- Build consistency.
 - Create a strong GitHub portfolio.
-- Stay consistent throughout the challenge.
 
 ---
 
-# 🚀 Upcoming Projects
+## 🚀 Upcoming Projects
 
-- 🔒 Password Generator
-- 📱 QR Code Generator
 - 😀 Face Detection
 - 📦 Barcode Generator
 - 🤖 Jarvis Assistant
 
 ---
 
-# 🙌 Thank You
+## 🙌 Thank You
 
 Thank you for visiting my repository!
 
