@@ -18,4 +18,4 @@ else:
     filename = code.save("barcode")
 
     print("\nBarcode generated successfully!")
-    print("Saved as:", filename + ".png")
+    print("Saved as:", filename)
